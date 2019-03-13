@@ -5,4 +5,4 @@ android:
     - android-28
     - extra
 script:
-  - echo "Successful!"
+  - echo "Successfully built!"
