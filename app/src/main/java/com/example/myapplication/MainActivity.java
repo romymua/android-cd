@@ -9,14 +9,14 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    EditText username_txt,password_txt;
+    EditText username_txt,password_txt; /* Consider following standard naming convention for component (ex. for EditText: etUserame, etPassword) */
 
     UserDataDao userDataDao;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_main); /* Consider limitting spacing after each line of code/s */
 
         username_txt = findViewById(R.id.username_txt);
 

@@ -4,7 +4,7 @@ import android.arch.persistence.room.Entity;
 import android.arch.persistence.room.PrimaryKey;
 
 @Entity
-public class user_data {
+public class user_data {  /* Consider using camelCase for Class name in Java ex. userData. */
     @PrimaryKey(autoGenerate = true)
     private int id;
     private String name;

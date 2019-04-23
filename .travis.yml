@@ -6,3 +6,4 @@ android:
     - extra
 script:
   - echo "Successfully built!"
+  - echo "Successfully build second time"

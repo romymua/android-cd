@@ -8,7 +8,7 @@ import android.content.Context;
 import android.support.annotation.NonNull;
 
 /**
- * Created by guendouz on 15/02/2018.
+ *
  */
 
 @Database(entities = {user_data.class}, version = 1)
