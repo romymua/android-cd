@@ -1,4 +1,0 @@
-#Tue Apr 23 17:53:51 NZST 2019
-base.0=C\:\\Users\\Admin\\Desktop\\SOFT806 Assignment 2\\AppsBeforeReview\\myapplication\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
-path.0=classes.dex
-renamed.0=classes.dex
