@@ -17,7 +17,7 @@ public class SignUpActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        setContentView(R.layout.activity_sign_up); /* Consider limitting spacing after each line of code/s */
+        setContentView(R.layout.activity_sign_up); /* Consider limiting spacing after each line of code/s */
 
         name_txt = findViewById(R.id.name_txt); /* Consider following standard naming convention for component (ex. for EditText: etUserame, etPassword) */
 

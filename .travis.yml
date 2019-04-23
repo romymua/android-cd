@@ -1,9 +1,0 @@
-language: android
-android:
-  components:
-    - build-tools-28.0.2
-    - android-28
-    - extra
-script:
-  - echo "Successfully built!"
-  - echo "Successfully build second time"
